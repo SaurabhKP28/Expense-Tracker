@@ -2,7 +2,7 @@ let expenses =[];
 let totalAmount = 0;
 
 const categorySelect = document.getElementById('category-select')
-const amountInput = document.getElementById('amount-input')
+const amountInput = document.getElementById('amount-input') 
 const dateInput = document.getElementById('date-input')
 const addBtn = document.getElementById('add-btn')
 const expenseTableBody = document.getElementById('expense-table-body')
